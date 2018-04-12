@@ -1,0 +1,112 @@
+<ScrollView xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:paddingTop="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingBottom="0dp"
+    tools:context="uk.ac.hud.u1756102.parkrun.MainActivity$PlaceholderFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/website_button"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:padding="10dp"
+            android:text="Website"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/title_gradient"
+            android:padding="10dp"
+            android:text="What to wear?"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="10dp"
+            android:background="@color/textArea"
+            android:padding="10dp"
+            android:text="@string/what_to_wear"
+            android:textSize="18sp" />
+
+        <TextView
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/title_gradient"
+            android:padding="10dp"
+            android:text="Should I bring food?"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="10dp"
+            android:background="@color/textArea"
+            android:padding="10dp"
+            android:text="@string/should_i_bring_food"
+            android:textSize="18sp" />
+
+        <TextView
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/title_gradient"
+            android:padding="10dp"
+            android:text="Are there facilites available?"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="10dp"
+            android:background="@color/textArea"
+            android:padding="10dp"
+            android:text="@string/are_there_facilities_on_site"
+            android:textSize="18sp" />
+
+        <TextView
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/title_gradient"
+            android:padding="10dp"
+            android:text="What does it cost?"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="10dp"
+            android:background="@color/textArea"
+            android:padding="10dp"
+            android:text="@string/what_does_it_cost"
+            android:textSize="18sp" />
+
+
+    </LinearLayout>
+</ScrollView>

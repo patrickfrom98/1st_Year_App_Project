@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ParkRun</string>
+    <string name="welcome_msg">Greenhead Park Run!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Info</string>
+    <string name="tab_text_3">Maps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about">Parkrun is a 5km running challenge that takes place every Saturday at 9:00am. Greenhead Park Run takes place at Greenhead Park in Huddersfield.\n\nThe event is free but we ask that you register at www.parkrun.org.uk/register before attending for the first time. Don\'t forget to bring your barcode!\n\nParkrun is meant for everyone. Please come along at run at your own pace. Greenhead Park has a great cafe to enjoy a beverage and snack at afterwards. If you want to challenge yourself, keep track of your previous time.</string>
+    <string name="directions">Greenhead Park\nPark Road\nHuddersfield\nHD1 4HS</string>
+
+    <string name="what_to_wear">We recommend you bring sports wear and supportive trainers.</string>
+    <string name="should_i_bring_food">Food is available at the greenhead park cafe. Alternatively you can bring a small snack or we suggest eating breakfast beforehand!</string>
+    <string name="are_there_facilities_on_site">There are no changing faciilites on site. There are toilets available in the cafe aslong as you make a purchase and parking is available for free.</string>
+    <string name="what_does_it_cost">This event is completely free for anyone and everyone.</string>
+</resources>
+
